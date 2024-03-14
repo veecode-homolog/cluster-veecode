@@ -1,0 +1,7 @@
+---
+cluster_name: "cluster-veecode"
+VPC_ID: "vpc-0ba5f5d93b3a959a2"
+publicsCIDRblock: "10.0.24.0/24"
+availabilityZone: "us-east-1a"
+instance_type: "t3.medium"
+keypar: "platform_kp"
