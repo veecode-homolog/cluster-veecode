@@ -1,4 +1,4 @@
-name: Stop Instance
+name: Stop Instance 
 
 on:
   workflow_dispatch:
