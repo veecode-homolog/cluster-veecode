@@ -4,6 +4,7 @@ metadata:
   name: "cluster-veecode"
   environment:
     cluster_type: ec2
+    public_ip: 52.45.32.68
   annotations:
     github.com/project-slug: veecode-homolog/cluster-veecode
     backstage.io/techdocs-ref: dir:.
@@ -12,4 +13,3 @@ spec:
   type: devops
   lifecycle: experimental
   owner: "group:default/admin"
-  
